@@ -1,2 +1,2 @@
 # FlappyBird
-Python Flappy Bird Game
+100% Python Flappy Bird Game
